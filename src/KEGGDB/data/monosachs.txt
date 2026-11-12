@@ -1,0 +1,119 @@
+Hexose (six-carbon sugar)
+Hex	Hexose	
+Glc	Glc	D-Glucose	D-Glucopyranose
+Galf	D-Galactofuranose	D-Galactofuranose
+Gal	Gal	D-Galactose	D-Galactopyranose
+LGal	L-Galactose	L-Galactopyranose
+Man	Man	D-Mannose	D-Mannopyranose
+All	All	D-Allose	D-Allopyranose
+Alt	LAlt	L-Altrose	L-Altropyranose
+Gul	Gul	D-Gulose	D-Gulopyranose
+Ido	LIdo	L-Idose	L-Idopyranose
+Tal	Tal	D-Talose	D-Talopyranose
+Pentose (five-carbon sugar)
+Ribf	D-Ribose	D-Ribofuranose
+Rib	Rib	D-Ribose	D-Ribopyranose
+Araf	D-Arabinose	D-Arabinofuranose
+Ara	D-Arabinose	D-Arabinopyranose
+LAraf	L-Arabinose	L-Arabinofuranose
+Ara	LAra	L-Arabinose	L-Arabinopyranose
+Xyl	Xyl	D-Xylose	D-Xylopyranose
+Lyx	Lyx	D-Lyxose	D-Lyxopyranose
+Tetrose (four-carbon sugar)
+Ery	D-Erythrose	D-Erythrofuranose
+Tho	D-Threose	D-Threofuranose
+Heptose (seven-carbon sugar)
+#Hep	Heptose	
+LDmanHep	Lgro-manHep	L-glycero-D-manno-Heptose	L-glycero-D-manno-Heptopyranose (LDmanHep)
+DDmanHep	gro-manHep	D-glycero-D-manno-Heptose	D-glycero-D-manno-Heptopyranose (DDmanHep)
+Deoxysugar (hexose or pentose without a hydroxyl group at the 6-position or the 2-position)
+6dAlt	L6dAlt	6-Deoxy-L-altrose	6-Deoxy-L-altropyranose
+6dGul	6dGul	6-Deoxy-D-gulose	6-Deoxy-D-gulopyranose
+6dTal	6dTal	6-Deoxy-D-talose	6-Deoxy-D-talopyranose
+Fuc	D-Fucose	6-Deoxy-D-galactopyranose
+Fuc	LFuc	L-Fucose	6-Deoxy-L-galactopyranose
+Rha	D-Rhamnose	6-Deoxy-D-mannopyranose
+Rha	LRha	L-Rhamnose	6-Deoxy-L-mannopyranose
+Qui	Qui	D-Quinovose	6-Deoxy-D-glucopyranose
+2dGlc	2-Deoxyglucose	2-Deoxy-D-arabino-hexose
+dRib	2-Deoxyribose	2-Deoxy-D-erythro-pentose
+Di-deoxysugar (hexose without hydroxyl groups at the 6-position and another position)
+Oli	Oli	Olivose	2,6-Dideoxy-D-arabino-hexopyranose (2,6daraHex)
+Tyv	Tyv	Tyvelose	3,6-Dideoxy-D-arabino-hexopyranose (3,6daraHex)
+Asc	Ascarylose	3,6-Dideoxy-L-arabino-hexopyranose (L3,6daraHex)
+Abe	Abe	Abequose	3,6-Dideoxy-D-xylo-hexopyranose (3,6dxylHex)
+Par	Par	Paratose	3,6-Dideoxy-D-ribo-hexopyranose (3,6dribHex)
+Dig	Dig	Digitoxose	2,6-Dideoxy-D-ribo-hexopyranose (2,6dribHex)
+Col	Col	Colitose	3,6-Dideoxy-L-xylo-hexopyranose (L3,6dxylHex)
+Amino sugar (hexose with an amino group at the 2-position)
+GlcN	GlcN	D-Glucosamine	2-Amino-2-deoxy-D-glucopyranose
+GalN	GalN	D-Galactosamine	2-Amino-2-deoxy-D-galactopyranose
+ManN	ManN	D-Mannosamine	2-Amino-2-deoxy-D-mannopyranose
+AllN	AllN	D-Allosamine	2-Amino-2-deoxy-D-allopyranose
+AltN	LAltN	L-Altrosamine	2-Amino-2-deoxy-L-altropyranose
+GulN	GulN	D-Gulosamine	2-Amino-2-deoxy-D-gulopyranose
+IdoN	LIdoN	L-Idosamine	2-Amino-2-deoxy-L-idopyranose
+TalN	TalN	D-Talosamine	2-Amino-2-deoxy-D-talopyranose
+Amino sugar (hexose with an N-acetylated amino group at the 2-position)
+GlcNAc	GlcNAc	N-Acetyl-D-glucosamine	2-Acetamido-2-deoxy-D-glucopyranose
+GalNAc	GalNAc	N-Acetyl-D-galactosamine	2-Acetamido-2-deoxy-D-galactopyranose
+ManNAc	ManNAc	N-Acetyl-D-mannosamine	2-Acetamido-2-deoxy-D-mannopyranose
+AllNAc	AllNAc	N-Acetyl-D-allosamine	2-Acetamido-2-deoxy-D-allopyranose
+AltNAc	LAltNAc	N-Acetyl-L-altrosamine	2-Acetamido-2-deoxy-L-altropyranose
+GulNAc	GulNAc	N-Acetyl-D-gulosamine	2-Acetamido-2-deoxy-D-gulopyranose
+IdoNAc	LIdoNAc	N-Acetyl-L-idosamine	2-Acetamido-2-deoxy-L-idopyranose
+TalNAc	TalNAc	N-Acetyl-D-talosamine	2-Acetamido-2-deoxy-D-talopyranose
+FucNAc	N-Acetyl-D-fucosamine	2-Acetamido-2,6-dideoxy-D-galactopyranose
+FucNAc	LFucNAc	N-Acetyl-L-fucosamine	2-Acetamido-2,6-dideoxy-L-galactopyranose
+RhaNAc	LRhaNAc	N-Acetyl-L-rhamnosamine	2-Acetamido-2,6-dideoxy-L-mannopyranose
+QuiNAc	QuiNAc	N-Acetyl-D-quinovosamine	2-Acetamido-2,6-dideoxy-D-glucopyranose
+6dAltNAc	L6dAltNAc	N-Acetyl-6-deoxy-L-altrosamine	2-Acetamido-2,6-dideoxy-L-altropyranose
+6dTalNAc	6dTalNAc	N-Acetyl-6-deoxy-D-talosamine	2-Acetamido-2,6-dideoxy-D-talopyranose
+Uronic acid (hexose with a negatively charged carboxylate at the 6-position)
+GlcA	GlcA	D-Glucuronic acid	D-Glucopyranuronic acid
+GalA	GalA	D-Galacturonic acid	D-Galactopyranuronic acid
+ManA	ManA	D-Mannuronic acid	D-Mannopyranuronic acid
+AllA	AllA	D-Alluronic acid	D-Allopyranuronic acid
+AltA	LAltA	L-Altruronic acid	L-Altropyranuronic acid
+GulA	GulA	D-Guluronic acid	D-Gulopyranuronic acid
+LGulA	L-Guluronic acid	L-Gulopyranuronic acid
+IdoA	LIdoA	L-Iduronic acid	L-Idopyranuronic acid
+TalA	TalA	D-Taluronic acid	D-Talopyranuronic acid
+Sialic acid (nine-carbon acidic sugar)
+Sia	Sia	Sialic acid	
+Neu	Neu	Neuraminic acid	5-Amino-3,5-dideoxy-D-glycero-D-galacto-non-2-ulosonic acid
+Neu5Ac	Neu5Ac	N-Acetylneuraminic acid	5-Acetamido-3,5-dideoxy-D-glycero-D-galacto-non-2-ulosonic acid
+Neu5Gc	Neu5Gc	N-Glycolylneuraminic acid	5-Glycolylamido-3,5-dideoxy-D-glycero-D-galacto-non-2-ulosonic acid
+Sugar alcohol
+Ery-ol	Erythritol	
+Ara-ol	Arabinitol	
+Xyl-ol	Xylitol	
+Rib-ol	Ribitol	
+Glc-ol	Glucitol	
+Gal-ol	Galactitol	
+Man-ol	Mannitol	
+Ketose
+Psi	Psi	D-Psicose	D-ribo-Hex-2-ulopyranose
+Fruf	D-Fructose	D-arabino-Hex-2-ulofuranose (D-fructofuranose)
+Fru	Fru	D-Fructose	D-arabino-Hex-2-ulopyranose
+Sor	LSor	L-Sorbose	L-xylo-Hex-2-ulopyranose
+Tag	Tag	D-Tagatose	D-lyxo-Hex-2-ulopyranose
+Xul	D-Xylulose	D-threo-Pent-2-ulopyranose
+Sed	D-Sedoheptulose	D-altro-Hept-2-ulopyranose
+Others
+Api	Api	Apiose	3-C-(Hydroxymethyl)-D-erythofuranose
+Bac	Bac	Bacillosamine	2,4,6-Trideoxy-2,4-diamino-D-glucopyranose
+The	Thevetose	6-Deoxy-3-O-methyl-D-glucose (Qui3Me)
+Aco	Acofriose	3-O-Methyl-D-rhamnose (Rha3Me)
+LAco	L-Acofriose	3-O-Methyl-L-rhamnose (LRha3Me)
+Cym	Cymarose	2,6-Dideoxy-3-methyl-D-ribo-hexose (Dig3Me)
+Mur	Mur	Muramic acid	2-Amino-3-O-[(R)-1-carboxyethyl]-2-deoxy-D-glucopyranose
+MurNAc	MurNAc	N-Acetylmuramic acid	2-Acetamido-3-O-[(R)-carboxyethyl]-2-deoxy-D-glucopyranose
+MurNGc	MurNGc	N-Glycolylmuramic acid	2-Glycolylamido-3-O-[(R)-1-carboxyethyl]-2-deoxy-D-glucopyranose
+Dha	Dha	3-Deoxy-lyxo-heptulosaric acid	3-Deoxy-D-lyxo-hept-2-ulopyranosaric acid
+Kdo	Kdo	Ketodeoxyoctonic acid	3-Deoxy-D-manno-oct-2-ulopyranosonic acid
+Kdn	Kdn	Ketodeoxynononic acid	3-Deoxy-D-glycero-D-galacto-non-2-ulopyranosonic acid
+Pse	Pse	Pseudaminic acid	5,7-Diamino-3,5,7,9-tetradeoxy-L-glycero-L-manno-non-2-ulopyranosonic acid
+Aci	Aci	Acinetaminic acid	5,7-Diamino-3,5,7,9-tetradeoxy-L-glycero-L-altro-non-2-ulopyranosonic acid
+Leg	Leg	Legionaminic acid	5,7-Diamino-3,5,7,9-tetradeoxy-D-glycero-D-galacto-non-2-ulopyranosonic acid
+4eLeg	4eLeg	4-Epilegionaminic acid	5,7-Diamino-3,5,7,9-tetradeoxy-D-glycero-D-talo-non-2-ulopyranosonic acid

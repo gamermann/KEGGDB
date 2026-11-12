@@ -1,0 +1,16 @@
+# Build and distribution
+build/
+dist/
+*.egg-info/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Testing and development
+.pytest_cache/
+.coverage
