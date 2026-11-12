@@ -51,7 +51,7 @@ For more detailed examples and explanations, see the documentation.
 
 ## Documentation
 
-The complete manual is available in [`docs/manual.pdf`](docs/manual.pdf).
+The complete manual is available in the [KEGGDB Manual](https://github.com/gamermann/KEGGDB/blob/main/docs/Manual.pdf).
 
 ## KEGG Database Usage
 
