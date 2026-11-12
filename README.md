@@ -73,6 +73,10 @@ documentation:
 - [KEGG REST API](https://www.genome.jp/kegg/rest/)
 - [KEGG Copyright and Disclaimer](https://www.kegg.jp/kegg/legal.html)
 
+## Acknowledgements
+
+Daniel Gamermann acknowledges the financial support provided by the Brazilian National Council for Scientific and Technological Development (CNPq) through the Universal Call grant No. 402487/2023-0 and the Research Productivity Fellowship grant No. 305872/2022-2.
+
 ## License
 
 KEGGDB is distributed under the GNU General Public License v3.0 or later (GPL-3.0-or-later).
